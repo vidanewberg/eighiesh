@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://coodoopeme.via-balkan-koket.se/sitemap.xml
